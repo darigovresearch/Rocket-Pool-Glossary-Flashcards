@@ -1,3 +1,18 @@
+Introduction (Rocket Pool Glossary)|"
+<p>This deck has taken definitions outlined in <a href=""https://docs.rocketpool.net/overview/glossary"">Rocket Pool's Glossary</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(Rocket Pool Glossary)"" appended to the end so that if you have any other words in your collection, the Rocket Pool Glossary definition will still be added when importing it.</li>
+<li>Any updates, translations or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Rocket-Pool-Glossary-Flashcards"">https://github.com/darigovresearch/Rocket-Pool-Glossary-Flashcards</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This work was based on the <em><strong>Rocket Pool Glossary</strong></em> by <a href=""https://docs.rocketpool.net/overview/glossary"">Rocket Pool</a>. Content is available under an <a href=""https://github.com/rocket-pool/docs.rocketpool.net/blob/main/license.md"">MIT license</a>.</p>
+<p>To see this work in full go to <a href=""https://docs.rocketpool.net/overview/glossary"">https://docs.rocketpool.net/overview/glossary</a></p>
+"
+
 "APY - Annual Percent Yield (APY): (Rocket Pool Glossary)"|"The amount of profit (yield) calculated over a one-year period divided by the initial investment amount expressed as a percentage."
 "Bonding (Rocket Pool Glossary)"|"<i>See insurance.</i>"
 "Contract, (Smart) (Rocket Pool Glossary)"|"An Ethereum program (smart contract) that is used to perform a set of programmed functions. Rocket Pool smart contracts include the deposit pool, minipool validator formation, and issue and track various token interactions on the Ethereum chain."

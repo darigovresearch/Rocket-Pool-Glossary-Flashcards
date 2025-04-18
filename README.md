@@ -7,8 +7,7 @@ This repository has taken definitions outlined in [Rocket Pool's Glossary](https
 ## Notes
 Please note the modifications which have been made & where you can find updates.
 1. The front of every card has "(Rocket Pool Glossary)" appended to the end so that if you have any other words in your collection, the Rocket Pool Glossary definition will still be added when importing it.
-2. The original relative URLs have been made into full URLs so they are clickable within Anki.
-3. Any updates, translations or corrections to the deck will be available at <a href="https://github.com/darigovresearch/Rocket-Pool-Glossary-Flashcards">https://github.com/darigovresearch/Rocket-Pool-Glossary-Flashcards</a> so do return periodically to check if you have the latest version.
+2. Any updates, translations or corrections to the deck will be available at <a href="https://github.com/darigovresearch/Rocket-Pool-Glossary-Flashcards">https://github.com/darigovresearch/Rocket-Pool-Glossary-Flashcards</a> so do return periodically to check if you have the latest version.
 
 Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.
 
