@@ -46,5 +46,4 @@ From a protocol perspective:
 "
 "Stake (Rocket Pool Glossary)"|"An amount of coin or token that is deposited as an assurance collateral to perform some work. An individual can stake ETH either as a regular user by swapping ETH for rETH or as a node operator by depositing ETH for use as part of the Beaconchain PoS consensus process. A person who stakes their ETH (e.g. a staker) is rewarded with an APY or return on their deposited ETH."
 "Staking Pool (Rocket Pool Glossary)"|"A staking pool allows multiple ETH coin holders to combine their tokens to collectively form the required amount to run an Ethereum validator. Rocket Pool forms, tracks, assigns, and insures these collective pools using a non-custodial decentralized method."
-"Validator (Rocket Pool Glossary)"|"<i>See minipool.</i>
-"
+"Validator (Rocket Pool Glossary)"|"<i>See minipool.</i>"
