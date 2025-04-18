@@ -20,7 +20,7 @@ A client is an implementation of Ethereum software that verifies all transaction
 
 ## Custodial
 
-Centralized service that manages the entire ETH staking process on behalf of the user and retains "custody" over private validator keys and withdrawal keys. _See also non-custodial._
+Centralized service that manages the entire ETH staking process on behalf of the user and retains ""custody"" over private validator keys and withdrawal keys. _See also non-custodial._
 
 ## DAO (Decentralized Autonomous Organization)
 
