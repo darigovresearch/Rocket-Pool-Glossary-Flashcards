@@ -4,7 +4,7 @@ The amount of profit (yield) calculated over a one-year period divided by the in
 "
 "Bonding"|"
 
-_See insurance._
+<i>See insurance.</i>
 "
 "Contract, (Smart)"|"
 
@@ -12,11 +12,11 @@ An Ethereum program (smart contract) that is used to perform a set of programmed
 "
 "Client"|"
 
-A client is an implementation of Ethereum software that verifies all transactions in each block, keeping the network secure and the data accurate. _See also Execution and Consensus client._
+A client is an implementation of Ethereum software that verifies all transactions in each block, keeping the network secure and the data accurate. <i>See also Execution and Consensus client.</i>
 "
 "Custodial"|"
 
-Centralized service that manages the entire ETH staking process on behalf of the user and retains ""custody"" over private validator keys and withdrawal keys. _See also non-custodial._
+Centralized service that manages the entire ETH staking process on behalf of the user and retains ""custody"" over private validator keys and withdrawal keys. <i>See also non-custodial.</i>
 "
 "DAO (Decentralized Autonomous Organization)"|"
 
@@ -76,7 +76,7 @@ A service that provides streamlining for validator set up in management but does
 "
 "Oracle DAO (oDAO)"|"
 
-A DAO composed of all the oracle node operators. _See also DAO._
+A DAO composed of all the oracle node operators. <i>See also DAO.</i>
 "
 "Oracle Node"|"
 
@@ -88,7 +88,7 @@ The consensus mechanism used in Ethereum, where users vote on the correctness of
 "
 "Protocol DAO (pDAO)"|"
 
-The DAO composed of all holders of RPL tokens. _See also DAO._
+The DAO composed of all holders of RPL tokens. <i>See also DAO.</i>
 "
 "Regular Node (Operator)"|"
 
@@ -104,21 +104,25 @@ A token that represents a regular user’s deposit into the staking pool. Users 
 "
 "RPL (Rocket Pool Token)"|"
 
-**RPL — Rocket Pool Protocol Token**
+<b>RPL — Rocket Pool Protocol Token</b>
 RPL is the primary protocol token that will be used in governance of the protocol and can also be staked on a Rocket Pool node.
 
 From a Node Operator perspective:
 
-- As of Saturn 1, vote-eligible staked RPL will get a share of total protocol revenue
-- The [majority](https://rpips.rocketpool.net/RPIPs/RPIP-25) of RPL inflation is given as rewards to Node Operators based on staked RPL; these rewards are planned to be phase out with Saturn 2
-- For Saturn 0 minipools (made after 10/28/2024): Staked RPL provides up to 4% additional bonus commission; bonus commission is planned to be phased out a few months after Saturn 1's launch.
-- Staked provides voting power for governance
+<ul align=""left"">
+	<li>As of Saturn 1, vote-eligible staked RPL will get a share of total protocol revenue</li>
+	<li>The <a href=""https://rpips.rocketpool.net/RPIPs/RPIP-25"">majority</a> of RPL inflation is given as rewards to Node Operators based on staked RPL; these rewards are planned to be phase out with Saturn 2</li>
+	<li>For Saturn 0 minipools (made after 10/28/2024): Staked RPL provides up to 4% additional bonus commission; bonus commission is planned to be phased out a few months after Saturn 1's launch.</li>
+	<li>Staked provides voting power for governance</li>
+</ul>
 
 From a protocol perspective:
 
-- A [minority](https://rpips.rocketpool.net/RPIPs/RPIP-25) of RPL inflation provides funding for the pDAO
-- A [minority](https://rpips.rocketpool.net/RPIPs/RPIP-25) of RPL inflation provides funding for the oDAO
-- It can serve as secondary collateral (e.g., against slashing)
+<ul align=""left"">
+	<li>A <a href=""https://rpips.rocketpool.net/RPIPs/RPIP-25"">minority</a> of RPL inflation provides funding for the pDAO</li>
+	<li>A <a href=""https://rpips.rocketpool.net/RPIPs/RPIP-25"">minority</a> of RPL inflation provides funding for the oDAO</li>
+	<li>It can serve as secondary collateral (e.g., against slashing)</li>
+</ul>
 
 "
 "Stake"|"
@@ -131,5 +135,5 @@ A staking pool allows multiple ETH coin holders to combine their tokens to colle
 "
 "Validator"|"
 
-_See minipool._
+<i>See minipool.</i>
 "
